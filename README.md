@@ -16,9 +16,11 @@ This analysis compares symptom scores before and after treatment with different 
 - `drug_effectiveness_data.csv`: The dataset
 - `DrugEffectivenessAnalysis.ipynb`: The Jupyter Notebook with all code and results
 
-## 📈 Sample Visualization
+## 📊 Boxplot Visualization
 
-![Boxplot of Symptom Scores](images/boxplot.png)
+This plot shows symptom scores before and after treatment with each drug:
+
+![Boxplot of Symptom Scores](SymptomScoreBoxplot.png)
 
 ## 🛠️ Tools Used
 
