@@ -2,7 +2,7 @@
 
 A statistical analysis comparing the effectiveness of different drugs based on patient outcomes.
 
-## 📊 Overview
+## Overview
 
 This analysis compares symptom scores before and after treatment with different drugs. It includes:
 
@@ -11,23 +11,23 @@ This analysis compares symptom scores before and after treatment with different 
 - Summary statistics
 - Paired t-tests
 
-## 📁 Files
+## Files
 
 - `drug_effectiveness_data.csv`: The dataset
 - `DrugEffectivenessAnalysis.ipynb`: The Jupyter Notebook with all code and results
 
-## 📊 Boxplot Visualization
+## Boxplot Visualization
 
 This plot shows symptom scores before and after treatment with each drug:
 
 ![Boxplot of Symptom Scores](SymptomScoreBoxplot.png)
 
-## 🛠️ Tools Used
+## Tools Used
 
 - R (via IRKernel in Jupyter)
 - `tidyverse`, `ggplot2`, `dplyr`, `tidyr`
 
-## ✅ Result Summary
+## Result Summary
 
 - Drug A showed a **mean improvement** of X
 - Drug B showed a **mean improvement** of Y
